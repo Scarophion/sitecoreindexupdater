@@ -1,4 +1,4 @@
-# sitecoreindexupdater
+# Sitecore Index Updater
 I have created an index update tool for forcing through an index update on an item or an item and its descendants.
 For versions: 9.3, 10.0
 
