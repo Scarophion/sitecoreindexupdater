@@ -1,0 +1,7 @@
+div[data-sc-id="treeSitecore"] {
+    background-color: hsl(0, 0%, 94%)
+}
+
+textarea[data-sc-id="txtResult"] {
+    opacity: 1 !important;
+}
